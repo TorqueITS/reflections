@@ -4,7 +4,7 @@
 
     <groupId>org.reflections</groupId>
     <artifactId>reflections</artifactId>
-    <version>0.11-SNAPSHOT</version>
+    <version>Torqueits-0.10.2</version>
     <packaging>jar</packaging>
 
     <name>Reflections</name>
